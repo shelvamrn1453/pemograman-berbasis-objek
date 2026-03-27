@@ -1,0 +1,9 @@
+java terbaru adalah :
+Java 26 adalah rilis terbaru dari bahasa pemrograman Java yang dirilis setiap 6 bulan sekali oleh Oracle.
+
+FITUR UTAMA JAVA 26:
+1. Primitive Patterns di switch -> Bisa pakai angka/boolean langsung di switch tanpa harus convert ke object dulu
+2. AOT (Ahead-of-Time) Object Caching -> Program jadi lebih cepat karena bagian-bagian yang sering dipakai disimpan di memori
+3. Structured Concurrency -> Nulis kode multitasking (banyak kerjaan sekaligus) jadi lebih rapi dan aman 
+4. Fitur AI & Kriptografi -> Dukungan lebih baik untuk aplikasi AI dan keamanan data
+5. Penyederhanaan Bahasa -> Syntax Java jadi lebih ringkas dan mudah dibaca
