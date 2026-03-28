@@ -1,0 +1,12 @@
+1. Jelaskan apa yang dimaksud dengan class dan object!
+jawab:
+- Class adalah blueprint/rancangan yang belum nyata untuk membuat objek, yang mendefinisikan variabel/atribut dan metode.
+- Object adalah hasil dari blueprint tersebut yang sudah dibuat dan siap dipakai. 
+Contoh: Komputer adalah class, mykom adalah object-nya.
+Analogi: Class adalah cetakan kue, sedangkan Objek adalah kue-kue hasil cetakan tersebut. 
+
+2. Sebutkan dan jelaskan jenis-jenis method !
+jawab:
+- Setter — method untuk mengisi/memasukkan data ke dalam object. Contoh: setDataKomputer()
+- Getter — method untuk mengambil data dari dalam object. Contoh: getJenis(), getMerk()
+- Main — pintu masuk program, tempat program mulai dijalankan. Contoh: main()
